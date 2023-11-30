@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Administrando datos", "Administrando datos\Administrando datos.csproj", "{D04CC844-E04F-4F7A-AE08-313E62C9DECE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "administrador de datos", "administrador de datos\administrador de datos.vdproj", "{4A0738B3-0A00-4879-B805-4307DBAB5658}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tienda donas", "tienda donas\tienda donas.vdproj", "{64A50E84-DD76-4A6A-B21D-7A120B5581E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D04CC844-E04F-4F7A-AE08-313E62C9DECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04CC844-E04F-4F7A-AE08-313E62C9DECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04CC844-E04F-4F7A-AE08-313E62C9DECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04CC844-E04F-4F7A-AE08-313E62C9DECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0738B3-0A00-4879-B805-4307DBAB5658}.Debug|Any CPU.ActiveCfg = Debug
+		{4A0738B3-0A00-4879-B805-4307DBAB5658}.Release|Any CPU.ActiveCfg = Release
+		{64A50E84-DD76-4A6A-B21D-7A120B5581E5}.Debug|Any CPU.ActiveCfg = Debug
+		{64A50E84-DD76-4A6A-B21D-7A120B5581E5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3445B03-EE03-406D-BB8E-70F1DD0FB570}
+	EndGlobalSection
+EndGlobal
